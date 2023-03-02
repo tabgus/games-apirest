@@ -1,0 +1,55 @@
+{
+  "games": [
+    {
+      "id": "61dbae02-c147-4e28-863c-db7bd402b2d6",
+      "name": "Blue Protocol",
+      "description": "Project Sky Blue es el estudio responsable de este videojuego de rol multijugador producido por Bandai  Namco. El título nos invita a sumergirnos en el planeta de Regnus, que otrora fue gobernado por una tribu divina",
+      "platform": [
+        "pc",
+        "ps5"
+      ],
+      "createdAt": "3/01/2023, 2:21:56 PM",
+      "updatedAt": "3/01/2023, 2:21:56 PM"
+    },
+    {
+      "id": "4a3d9aaa-608c-49a7-a004-66305ad4ab50",
+      "name": "The Legend of Zelda: Tears of the Kingdom",
+      "description": "The Legend of Zelda: Breath of the Wild 2 es la segunda parte de Breath of the Wild, el título que revolucionó los mundos abiertos y el concepto de la saga Zelda en Nintendo Switch y Wii U",
+      "platform": [
+        "switch"
+      ],
+      "createdAt": "3/01/2023, 2:21:56 PM",
+      "updatedAt": "3/01/2023, 2:21:56 PM"
+    },
+    {
+      "id": "d8be2362-7b68-4ea4-a1f6-03f8bc4eede7",
+      "name": "Hogwarts Legacy",
+      "description": "Hogwarts Legacy es un videojuego de rol y aventuras en tercera persona desarrollado por Warner Bros. Games y Avalanche para consolas y PC.",
+      "platform": [
+        "pc",
+        "ps5",
+        "xbone",
+        "ps4",
+        "switch"
+      ],
+      "createdAt": "3/01/2023, 2:21:56 PM",
+      "updatedAt": "3/01/2023, 2:21:56 PM"
+    },
+    {
+      "id": "dfa60d0a-56d5-4480-b192-d2c06ebd224b",
+      "createdAt": "3/1/2023, 2:54:24 PM",
+      "updatedAt": "3/1/2023, 2:54:24 PM"
+    },
+    {
+      "name": "God of War: Ragnarok ",
+      "description": "God of War: Ragnarok para PlayStation 5 es la secuela de God of War, el reinicio y a la vez secuela de los anteriores God of War para consolas PlayStation. Desarrollado por el prestigioso estudio Sony Santa Monica y con la dirección de Cory Barlog, encontraremos una nueva historia en la que Kratos deberá enfrentarse a diversos enemigos de inspiración nórdica.",
+      "platform": [
+        "ps5",
+        "ps4"
+      ],
+      "id": "ff0df812-5329-4b28-9fd0-9616360cf511",
+      "createdAt": "3/1/2023, 3:55:07 PM",
+      "updatedAt": "3/1/2023, 3:55:07 PM"
+    }
+  ]
+}
